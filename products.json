@@ -1,0 +1,11 @@
+{"_id":{"$oid":"5810b64ec2e5b7ca4b4b6844"},"pname":"Apple Iphone 6","price":40000.0,"imgpath":"/images/apple-i6.jpeg"}
+{"_id":{"$oid":"5811ef0f1b8e020cda3889eb"},"pname":"Canon 700d","price":30000.0,"imgpath":"/images/canon.jpeg"}
+{"_id":{"$oid":"5811ef851b8e020cda3889ec"},"pname":"hp Laptop i5 fith generation","price":52000.0,"imgpath":"/images/hp-laptop-i5.jpeg"}
+{"_id":{"$oid":"5811efef1b8e020cda3889ed"},"pname":"Lenovo Yoga","price":16500.0,"imgpath":"/images/lenovo-yoga.jpeg"}
+{"_id":{"$oid":"5811f0fd1b8e020cda3889ee"},"pname":"Google Pixel xl","price":21500.0,"imgpath":"/images/google-pixel-xl.jpeg"}
+{"_id":{"$oid":"581218af54e9ca027090b788"},"pname":"Sony PlayStation 3","price":14200.0,"imgpath":"/images/sony-ps3.jpeg"}
+{"_id":{"$oid":"5812199f54e9ca027090b789"},"pname":"HP 20 r010 Desktop","price":30500.0,"imgpath":"/images/hp-20-r010.jpeg"}
+{"_id":{"$oid":"581219f954e9ca027090b78a"},"pname":"Logitech Gamepad f310","price":3100.0,"imgpath":"/images/logitech-gamepad-f310.jpeg"}
+{"_id":{"$oid":"58121a4654e9ca027090b78b"},"pname":"Philips Soundbar (black,2.1 channel)","price":11000.0,"imgpath":"/images/philips-soundbar.jpeg"}
+{"_id":{"$oid":"58121a9b54e9ca027090b78c"},"pname":"Samsung (59cm) Led Tv","price":11900.0,"imgpath":"/images/samsung-59cm-led-tv.jpeg"}
+{"_id":{"$oid":"58121ad754e9ca027090b78d"},"pname":"Sony MDR xb450","price":1800.0,"imgpath":"/images/sony-mdr-xb450.jpeg"}
